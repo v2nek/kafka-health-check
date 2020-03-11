@@ -3,8 +3,8 @@ package check
 import (
 	"time"
 
-	"github.com/optiopay/kafka"
-	"github.com/optiopay/kafka/proto"
+	"github.com/optiopay/kafka/v2"
+	"github.com/optiopay/kafka/v2/proto"
 	"github.com/samuel/go-zookeeper/zk"
 )
 
@@ -21,7 +21,7 @@ type BrokerConnection interface {
 	Close()
 }
 
-// actual implementation of the Kafka broker connection based on optiopay/kafka.
+// actual implementation of the Kafka broker connection based on optiopay/kafka/v2.
 type kafkaBrokerConnection struct {
 	broker *kafka.Broker
 }

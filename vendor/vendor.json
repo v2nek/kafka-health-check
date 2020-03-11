@@ -19,23 +19,23 @@
 		},
 		{
 			"checksumSHA1": "LCo45KOYMPpJKgxlj3mlMVF1zN0=",
-			"path": "github.com/optiopay/kafka",
-			"revision": "5ea5ed9f82995911f606b346b370ffd233363950"
+			"path": "github.com/optiopay/kafka/v2",
+			"revision": "3fc0c996f834c4f69dddbde6d9f5aef892dbec1b"
 		},
 		{
 			"checksumSHA1": "pI0IkJbYND5BK1oAF5LmByjq3C8=",
-			"path": "github.com/optiopay/kafka/integration",
-			"revision": "5ea5ed9f82995911f606b346b370ffd233363950"
+			"path": "github.com/optiopay/kafka/v2integration",
+			"revision": "3fc0c996f834c4f69dddbde6d9f5aef892dbec1b"
 		},
 		{
 			"checksumSHA1": "0RLEpjhmQspBVOF3LjfMQGc9XeQ=",
-			"path": "github.com/optiopay/kafka/kafkatest",
-			"revision": "5ea5ed9f82995911f606b346b370ffd233363950"
+			"path": "github.com/optiopay/kafka/v2/kafkatest",
+			"revision": "3fc0c996f834c4f69dddbde6d9f5aef892dbec1b"
 		},
 		{
 			"checksumSHA1": "FRHMZLdFcsD9j3ZfCXfUN2TFBm0=",
-			"path": "github.com/optiopay/kafka/proto",
-			"revision": "5ea5ed9f82995911f606b346b370ffd233363950"
+			"path": "github.com/optiopay/kafka/v2/proto",
+			"revision": "3fc0c996f834c4f69dddbde6d9f5aef892dbec1b"
 		},
 		{
 			"checksumSHA1": "ynJSWoF6v+3zMnh9R0QmmG6iGV8=",

@@ -5,8 +5,8 @@ package check
 
 import (
 	gomock "github.com/golang/mock/gomock"
-	kafka "github.com/optiopay/kafka"
-	proto "github.com/optiopay/kafka/proto"
+	kafka "github.com/optiopay/kafka/v2"
+	proto "github.com/optiopay/kafka/v2/proto"
 	zk "github.com/samuel/go-zookeeper/zk"
 	time "time"
 )

@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/optiopay/kafka"
+	"github.com/optiopay/kafka/v2"
 	log "github.com/sirupsen/logrus"
 )
 
